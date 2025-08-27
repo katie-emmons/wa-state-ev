@@ -8,41 +8,6 @@ Access & Use Information
 
 The goal of this notebook is to explore the Washington State EV dataset using Altair, a Python library for creating interactive visualizations. 
 
-### 1. Import data and packages
-```
-#!pip install --upgrade altair
-#!pip install altair vega_datasets
-```
-```
-import pandas as pd
-import altair as alt
-from vega_datasets import data
-```
-```
-df = pd.read_csv("Electric_Vehicle_Population_Data_20250825.csv")
-```
-### 2. Explore the dataset
-```
-print("Number of records: ", len(df))
-```
-```
-df.head()
-```
-### 3. Define Questions
-**Question 1: What is the most common EV type?**
-```
-summary = df['Electric Vehicle Type'].value_counts().to_frame(name='Count').reset_index()
-```
-```
-categorical = 'set2'
-sequential = 'blues'
-```
-```
-alt.Chart(summary).mark_bar().encode(
-    y = 'Electric Vehicle Type',
-    x = 'Count', 
-    color = alt.Color('Electric Vehicle Type', scale = alt.Scale(range = ['#a6d854', '#8da0cb'])), 
-    tooltip = ['Count']
-)
-```
-<img src="./EV_Types_1.svg">
+You can view the entire notebook with interactive visuals on [nbviewer](https://nbviewer.org/github/katie-emmons/wa-state-ev/blob/main/EV%20Data%20Viz.ipynb). 
+
+
