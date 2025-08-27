@@ -45,4 +45,4 @@ alt.Chart(summary).mark_bar().encode(
     tooltip = ['Count']
 )
 ```
-()
+<img src="./EV_Types_1.svg">
