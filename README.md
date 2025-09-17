@@ -18,9 +18,11 @@ Battery EVs are far more common compared to Plug-in Hybrid EVs, accounting for a
 
 ![Alt text](https://github.com/katie-emmons/wa-state-ev/blob/main/EV_Types.svg)
 
-**What are the most common EV models?**
+**What are the most common EV makes and models?**
 
-The Tesla Model Y is the most common EV model, accounting for about 20% of electric vehicles in Washington. The Tesla Model 3 is a close runner up, accounting for about 15%. The Nissan Leaf accounts for about 5% of Washington state EVs. Other EV models, including the Chevrolet Volt, Kira Niro, and BMW X5, account for about 50% of Washington state EVs. 
+Teslas are by far the most common EV manufacturer with over 100,000 vehicles in Washington. Chevrolet is a distant second with just under 20,000 vehicles. 
+
+In terms of models, the Model Y and Model 3 are the most common Tesla models. The most common Chevy model is the Bolt EV, followed by the Volt, which is a plug-in hybrid model. 
 
 ![Alt text](https://github.com/katie-emmons/wa-state-ev/blob/main/Top_EV_Models.svg)
 
