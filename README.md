@@ -24,7 +24,8 @@ Teslas are by far the most common EV manufacturer with over 100,000 vehicles in 
 
 In terms of models, the Model Y and Model 3 are the most common Tesla models. The most common Chevy model is the Bolt EV, followed by the Volt, which is a plug-in hybrid model. 
 
-![Alt text](https://github.com/katie-emmons/wa-state-ev/blob/main/Top_EV_Models.svg)
+![Alt text](https://github.com/katie-emmons/wa-state-ev/blob/main/Top_Tesla_Models.svg)
+![Alt text](https://github.com/katie-emmons/wa-state-ev/blob/main/Top_Chevy_Models.svg)
 
 **Which WA state counties have the most EVs?**
 
